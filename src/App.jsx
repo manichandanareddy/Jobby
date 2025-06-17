@@ -1,9 +1,9 @@
 import './App.css'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
-import Home from './Components/Home'
-import PageNotFound from './Components/PageNotFound'
-import Jobs from './Components/Jobs'
-import Login from './Components/login'
+import Home from './components/Home'
+import PageNotFound from './components/PageNotFound'
+import Jobs from './components/Jobs'
+import Login from './components/login'
 function App() {
   
 
